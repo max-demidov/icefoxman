@@ -1,0 +1,15 @@
+*.apk
+*.ap_
+*.class
+bin/
+gen/
+local.properties
+.classpath
+.project
+*.iml
+*.ipr
+*.iws
+.idea/
+test-output/
+log/
+target/
